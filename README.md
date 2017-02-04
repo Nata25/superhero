@@ -6,18 +6,18 @@ Final project for the [Responsive Web Design](https://www.coursera.org/learn/res
 
 ## Overview
 
-**Assignment**: Make a __task list__, i.e. a sample web site for collecting and navigating through tasks (front-end part only). 
-- Should contain the following pages: 'Home', 'About', 'All tasks', and one task description. 
+ASSIGNMENT: Make a __task list__, i.e. a sample web site for collecting and navigating through tasks (front-end part only). 
+- Should contain the following pages: "Home", "About", "All tasks", and one task description. 
 - Use some Bootstrap custom theme. 
-- Follow the principles of user-friendly navigation: at any point user should be able to answer the questions: *Where I am?, Where can I go?*
+- Follow the principles of user-friendly navigation: at any time user should be able to answer the questions: *Where I am?, Where can I go?*
 
-**My implementation**: Amusing web diary of imaginary Super Hero with tasks like 'Save the world' or 'Solve one of a Hilbert math problems'. The page meets all technical requirements stated in assignment.
+MY IMPLEMENTATION: Amusing web diary of imaginary _Super Hero_ with tasks like "Save the world" or "Solve one of a Hilbert math problems". The page meets all technical requirements stated in the assignment and provides some additional features.
 
 ## Tech details:
 
-`Bootstrap` features:
+`Bootstrap` use:
 - site is fully responsive
-- 'Super Hero' Bootstrap theme was used (it's just a coincidence!)
+- [Super Hero](https://bootswatch.com/superhero/) Bootstrap theme was used (it's just a coincidence!)
 - collapsable mobile nav with `jQuery`
 - active class on current nav tab and breadcrumbs to improve navigating.
 

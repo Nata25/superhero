@@ -1,0 +1,92 @@
+body {
+  font-size: 1.8em;
+  line-height: 2em;
+}
+
+h2, h3 {
+  margin: 30px;
+}
+
+#message {
+  visibility: hidden;
+  font-size: .9em;
+}
+
+ul.nav-pills > li {
+  /*font-variant: small-caps;*/
+  text-transform: uppercase;
+  font-size: 1.1em;
+}
+
+/*ul.nav-pills > li:hover {
+  background-color: blue;
+}*/
+
+.comment {
+  display: inline-block;
+  padding: 10px;
+}
+
+ol li {
+  margin: .5em;
+}
+
+.nav>li>a:hover {
+  background-color: #2B3E50;
+}
+
+.well {
+  position: relative;
+}
+
+.asignee {
+  /*text-align: center;*/
+}
+
+.asignee figcaption {
+  margin-bottom: 20px;
+}
+
+img {
+  display: inline-block;
+  margin: 10px auto;
+}
+
+img.img-circle {
+  max-width: 150px;
+}
+
+.popular {
+  border-left: 5px solid #5cb85c;
+}
+
+footer.panel {
+  margin-bottom: 0;
+  width: 100%;
+  font-size: .6em;
+  line-height: normal;
+}
+
+footer.bottom {
+  position: absolute;
+  bottom: 0;
+}
+
+.credits {
+  font-size: .9em;
+}
+
+@media (max-width: 768px) {
+  nav.navbar li {
+    width: 100%;
+  }
+
+  h2,
+  .page-header {
+    text-align: center;
+  }
+
+  .page-header small {
+    display: none;
+  }
+}

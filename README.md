@@ -1,6 +1,6 @@
 # Being a Super Hero
 
-Final project for the [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design) online course by _University of London, Goldsmiths, University of London_ on [Coursera](https://www.coursera.org).
+Trainee project for the [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design) online course by _University of London, Goldsmiths, University of London_ on [Coursera](https://www.coursera.org).
 
 [Certificate earned](https://www.coursera.org/account/accomplishments/certificate/Y9Y64XDBS5MU) in August 2016.
 
